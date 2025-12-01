@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "mattcl-aoc2025-py"
+name = "mattcl-aoc2025"
 version = "0.1.0"
 description = "Advent of Code solutions for 2025"
 authors = ["mattcl"]
@@ -21,7 +21,7 @@ click = "^8.1.7"
 [tool.poetry.dev-dependencies]
 black = "^23.10.0"
 pytest = "^7.4.2"
-pytest-watcher = "^0.3.4"
+pytest-watcher = "^0.4.3"
 pytest-benchmark = "^4.0.0"
 
 [build-system]
