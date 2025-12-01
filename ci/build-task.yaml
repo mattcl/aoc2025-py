@@ -4,7 +4,7 @@ image_resource:
   source:
     # the docker image to use
     repository: mattcl/aoc-python
-    tag: 3.12
+    tag: 3.14
 
 inputs:
   # this repository will be provided to the task in the registry-image as a
