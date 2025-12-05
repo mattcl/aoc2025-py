@@ -47,7 +47,6 @@ class Solver(aoc.util.Solver):
                 start, end = merged[mid]
 
                 if contains(start, end, id):
-                    print(id)
                     self.p1 += 1
                     break
 
